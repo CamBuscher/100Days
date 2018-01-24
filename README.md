@@ -8,3 +8,8 @@ Started Turing!! A lot a lot a lot of orientation type stuff. Worked some more o
 I was particuarly impressed that three of their cohorts had 100% job-success rates. One reached 100% within 100 days, which is insane. My cohort has 27 people, and the back-end cohort that started today _also_ has 27 people. Each are the largest cohorts yet.
 
 ## Day 3
+Whew, I'm tired. Today a little more coding type stuff. All very basic stuff, but I'm going to enjoy that while I can. Quite a bit of work on the command line today, getting people used to working out of that as it can be quite a bit quicker than using the finder system. I also learned a couple of useful command line, well, commands... for lack of a better word. "pbcopy" and "pbpaste" which allow you to copy or paste the _contents_ of a file, and not the file itself (like the "cp" command does.) 
+
+This is cool but the only usecase I see for this is starting a file with a framework of code already in it, i.e. the HTML structure.
+
+Anyway, tomorrow is **picture day** so WHOOOOOOO.
