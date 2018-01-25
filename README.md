@@ -13,3 +13,15 @@ Whew, I'm tired. Today a little more coding type stuff. All very basic stuff, bu
 This is cool but the only usecase I see for this is starting a file with a framework of code already in it, i.e. the HTML structure.
 
 Anyway, tomorrow is **picture day** so WHOOOOOOO.
+
+## Day 4
+I skipped my picture. Was too busy working on a solo project, which was really basic. We really dove into HTML today, finally. I know it is only day 3 of school but knowing there was a lot of schoolwork on the horizon was daunting and weirdly I'm glad to be in the midst of it now.
+
+The coding itself was very basic so I want to mention the strengths finder test we took. Versions of it are available online for free (google strengths finder test). We got our top five strengths, and mine were:
+1. Competition
+2. Input (I am a collector of knowledge)
+3. Restorative (I strive for perfection in things I guess)
+4. Learner 
+5. Harmony (I think sequentially and look for practicality in my solutions.)
+
+I'm not sure how I feel about all of those, but it was an interesting exercise and one I guess used by several tech companies (Facebook is he example we were given). They will hire the best available candidate without a job in mind, then have them take the strengths test to help determine where they are best suited to work, and I think that is fascinating. 
