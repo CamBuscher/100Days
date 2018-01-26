@@ -25,3 +25,15 @@ The coding itself was very basic so I want to mention the strengths finder test 
 5. Harmony (I think sequentially and look for practicality in my solutions.)
 
 I'm not sure how I feel about all of those, but it was an interesting exercise and one I guess used by several tech companies (Facebook is he example we were given). They will hire the best available candidate without a job in mind, then have them take the strengths test to help determine where they are best suited to work, and I think that is fascinating. 
+
+## Day 5
+
+Today we started CSS and Javascript. Javascript I'm most nervous and most excited for, since I have the least experience with it of things we are starting. I can't wait to get a good grasp on that, as I feel like I'm doing okay in terms of CSS and HTML.
+
+We have our first solo projects, this thing called dog party, where we build a website based on this image of a website http://frontend.turing.io/assets/images/dog-party.png
+
+I think I got it pretty well under control, but I built it on a 960px width body, and maybe will go back and adjust it all to be on a 100% width body, I'm not sure. It's not due for a few days, so I'll clean up some code in the meantime, but my first attempt is posted a repository on here if you want to check it out and give me some tips on how to clean it up!
+
+We also spent a good portion of our day working with accessibility and particuarly ARIA for screen reader purposes, so I optimized it as well as I could for that, too. It's nice that Turing has a very empathy-driven process, and accessibility is a huge part of that. It's also cool that ARIA form labels seem to make Forms easier than the typical Label+Input pairings. 
+
+Busy day, and I'm up at 11 p.m. which is scary for me now. Hope you're all kicking ass on your challenges!
