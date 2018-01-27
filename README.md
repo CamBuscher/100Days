@@ -37,3 +37,13 @@ I think I got it pretty well under control, but I built it on a 960px width body
 We also spent a good portion of our day working with accessibility and particuarly ARIA for screen reader purposes, so I optimized it as well as I could for that, too. It's nice that Turing has a very empathy-driven process, and accessibility is a huge part of that. It's also cool that ARIA form labels seem to make Forms easier than the typical Label+Input pairings. 
 
 Busy day, and I'm up at 11 p.m. which is scary for me now. Hope you're all kicking ass on your challenges!
+
+## Day 5
+
+Fridays at Turing are pretty slow, but we did finish our first javascript lecture, and then got assigned our first real project, this number guesser game based on this comp: http://frontend.turing.io/projects/number-guesser.html 
+
+It's interesting to get assigned this before we have actually covered all of the applicable javascript concepts. It's not due until Thursday, but it gives us a chance to give it a go before we actually learn the required information. So I'll start building that today (Day 6, I'm writing this after day 5 because I was pretty wiped last night and forgot) while I go study with some people later. 
+
+We are also continuing our Chrome Dev Tools learning. I feel pretty comfortable with those but it's nice to get a general overview of it all too. 
+
+So that's where I'm at! I'll post my Day 6 update this evening, hopefully with some real progress on the Number Guesser comp.
