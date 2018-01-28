@@ -38,7 +38,7 @@ We also spent a good portion of our day working with accessibility and particuar
 
 Busy day, and I'm up at 11 p.m. which is scary for me now. Hope you're all kicking ass on your challenges!
 
-## Day 5
+## Day 6
 
 Fridays at Turing are pretty slow, but we did finish our first javascript lecture, and then got assigned our first real project, this number guesser game based on this comp: http://frontend.turing.io/projects/number-guesser.html 
 
@@ -47,3 +47,13 @@ It's interesting to get assigned this before we have actually covered all of the
 We are also continuing our Chrome Dev Tools learning. I feel pretty comfortable with those but it's nice to get a general overview of it all too. 
 
 So that's where I'm at! I'll post my Day 6 update this evening, hopefully with some real progress on the Number Guesser comp.
+
+## Day 7
+
+Today I met with a group of people and we all worked on our own things, but it was nice to be able to help people who needed it as well as get help from others when I did. It's nice to have people to turn to when I'm struggling with a concept. 
+
+I have already found a mentor (somebody who has gone through Turing already) to meet with me when I need some additional assistance, and also a pairing partner in somebody a module ahead of me in Turing. That's rad. 
+
+The only progress I made on the Number Guesser was setting up some HTML and CSS of the project, which I'll finish on Sunday morning. From our study group today I realized I have a firmer grasp on HTML CSS than most at this point, and that is encouraging, but to quote one of the more famous Warcraft wizards: "I must not get complacent."
+
+That's enough nerding for today. Hope you're all doing well! 
