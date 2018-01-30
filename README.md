@@ -57,3 +57,17 @@ I have already found a mentor (somebody who has gone through Turing already) to 
 The only progress I made on the Number Guesser was setting up some HTML and CSS of the project, which I'll finish on Sunday morning. From our study group today I realized I have a firmer grasp on HTML CSS than most at this point, and that is encouraging, but to quote one of the more famous Warcraft wizards: "I must not get complacent."
 
 That's enough nerding for today. Hope you're all doing well! 
+
+## Day 8
+
+Oh man, my life is weird now. I got up at 5:30 a.m. to work on my number guesser project and finish the HTML and CSS of it before delving into the javascript lessons we are doing tomorrow. After that I think I'll have a good grasp on how to attack this project. 
+
+Other than that, a bit of an off day for me, Court and I are going to an animal sanctuary and a movie. We'll see if I regret that come tomorrow night.
+
+## Day 9
+
+I don't really regret my day off yesterday, but kind of regret spending two hours making dinner tonight, as I'm starting the javascript portion of my number guesser now at 8p.m.. But after today's lessons I have a good plan for it.
+
+We learned about eventListeners and querySelectors, which should be able to carry the bulk of the workload on this project. At least on the stuff I can accomplish in the first couple of phases, before making it more complicated later. 
+
+I'm definitely tired for the first time after school. I mean like I could fall asleep right now, but I am excited to knock out this problem! Will report back tomorrow with my progress. 
