@@ -71,3 +71,15 @@ I don't really regret my day off yesterday, but kind of regret spending two hour
 We learned about eventListeners and querySelectors, which should be able to carry the bulk of the workload on this project. At least on the stuff I can accomplish in the first couple of phases, before making it more complicated later. 
 
 I'm definitely tired for the first time after school. I mean like I could fall asleep right now, but I am excited to knock out this problem! Will report back tomorrow with my progress. 
+
+## Day 9
+
+I got pretty far on my number guesser last night! In a pretty short amount of time. In about three hours I went from no javascript to a solid product (I uploaded the project in a separate repository, check it out! The README has a link to the project). I have finished the first two of four phases, which is enough to pass pretty easily, but I will spend a good amount of time tomorrow having a variable range of numbers to be randomly generated and also able to be manipulated by the user. 
+
+I have a plan of action for it and feel fairly confident in how to accomplish that goal, so I'm excited! 
+
+Anywho, today in school we wrapped up our week of javascript learning, which was enlightening and not too difficult. We also learned how to best utilize Git and Github and that was really fascinating, both in how we can use it now and how it applies for our actual careers. Obviously I have some experience with Github (that's where you're reading this =p), but learning how to use Git locally was new and cool. I learned about branches and how to implement code in a safe way and also recall old snapshots of a codebase if I mess it up! 
+
+So that was all pretty exciting. Tonight I was a bad student and skipped a potential networking event to go play some pub trivia, but I am not that worried about the missed opportunity. There has been about 10 networking events since I started at Turing 9 days ago, and I'm only in week two. But still, looking forward to attending more of those in the future. If I hear of any cool ones I will share it in our facebook group!
+
+Basically I needed to 
