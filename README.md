@@ -72,7 +72,7 @@ We learned about eventListeners and querySelectors, which should be able to carr
 
 I'm definitely tired for the first time after school. I mean like I could fall asleep right now, but I am excited to knock out this problem! Will report back tomorrow with my progress. 
 
-## Day 9
+## Day 10
 
 I got pretty far on my number guesser last night! In a pretty short amount of time. In about three hours I went from no javascript to a solid product (I uploaded the project in a separate repository, check it out! The README has a link to the project). I have finished the first two of four phases, which is enough to pass pretty easily, but I will spend a good amount of time tomorrow having a variable range of numbers to be randomly generated and also able to be manipulated by the user. 
 
@@ -82,4 +82,11 @@ Anywho, today in school we wrapped up our week of javascript learning, which was
 
 So that was all pretty exciting. Tonight I was a bad student and skipped a potential networking event to go play some pub trivia, but I am not that worried about the missed opportunity. There has been about 10 networking events since I started at Turing 9 days ago, and I'm only in week two. But still, looking forward to attending more of those in the future. If I hear of any cool ones I will share it in our facebook group!
 
-Basically I needed to 
+## Day 11
+
+Number Guesser completed! I went through all of the important phases and got my project to a level I'm really happy with! I invite you to clone the repository to your system and play with it, it's simple looking but I had a ton of fun making it. 
+
+Not a lot of instruction today, just plenty of work time. We have project evaluations tomorrow and I'm excited/nervous for that, but feel fairly confident.
+
+A big thing I did today was utilize Git in my project. Working out of branches and being liberal with my commits allowed me to make a ton of changes willy-nilly without fear of ruining the whole project. Was very freeing! Excited to have used this project as an excuse to experiment further with that concept. 
+
