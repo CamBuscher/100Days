@@ -90,3 +90,10 @@ Not a lot of instruction today, just plenty of work time. We have project evalua
 
 A big thing I did today was utilize Git in my project. Working out of branches and being liberal with my commits allowed me to make a ton of changes willy-nilly without fear of ruining the whole project. Was very freeing! Excited to have used this project as an excuse to experiment further with that concept. 
 
+## Day 12
+
+Today was another small day as far as instruction goes. The big item on our agenda was our evaluations of our first project, the number guesser, which I have uploaded my newest, final version on github for your perusal. Just clone that repository down and guess some numbers. And tell me any bugs you find! This is likely what I'll show off on Sunday if we all get together.
+
+I think my evaluation went really well, but hopefully I'll have that confirmed in the form of a written evaluation from my instructor soon. 
+
+We did have a lecture on javascript tests and behavior driven development. So far it's a very base level we are working with, but the idea is these repositories of tests are available for us to copy down, and then we have to write out some javascript functions in order for all the specifications of the tests to pass! They are kind of homework that isn't graded but will definitely improve my javascript in the long-term, so I suspect that's what I'll be spending my weekend on if I don't have much in the way of my next project.
