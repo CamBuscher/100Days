@@ -97,3 +97,19 @@ Today was another small day as far as instruction goes. The big item on our agen
 I think my evaluation went really well, but hopefully I'll have that confirmed in the form of a written evaluation from my instructor soon. 
 
 We did have a lecture on javascript tests and behavior driven development. So far it's a very base level we are working with, but the idea is these repositories of tests are available for us to copy down, and then we have to write out some javascript functions in order for all the specifications of the tests to pass! They are kind of homework that isn't graded but will definitely improve my javascript in the long-term, so I suspect that's what I'll be spending my weekend on if I don't have much in the way of my next project.
+
+## Day 13 
+
+I accidentally skipped this yesterday, but will retroactively update it. We really didn't have a ton of instruction lecture-wise today. Our one lesson was on design!! Which is pretty funny considering my background, but it was mostly a broad overview of well-designed things in the eyes of the class. Some examples were an Aeropress (to some debate), all Apple products (at least from iPod to iPad) and no newspapers :(. 
+
+We went over Dieter Rams 10 design principles, and then read a bit on Swiss design and how everybody loves and uses helvetica. 
+
+We also had an optional mock interview Q&A in the morning that was pretty informative, with some interesting points I noted down, indlucing: being okay saying you don't know an answer to a question, but also showing an interest in the material mentioned and taking notes to reference and read up on it later. The interviewer may know you don't know something, and the fact that you already have an in-person interview means they have an interest in you, so don't ruin it by bullshitting your way through an answer and wasting time.
+
+Again, a pretty light day. We were assigned our first paired project, so starting that this weekend will keep me busy. Tune in tomorrow (today, as I write this) to find out how day one of that went!
+
+## Day 14
+
+We set up the HTML & CSS of our project. It's a website that will take an input of a website name and website URL and on a submit and then create a bookmark for it on the side of the page. An editable list and the items on it can be marked as 'read' or deleted. It's pretty exciting, but a new javascript challenge. 
+
+It also needs to be a responsive webpage which I haven't yet done. I'll have to do some reading up on that to get a good crack at that. But so far so good, we accomplished our weekend goal today, with lots of worktime to go the rest of the week. 
