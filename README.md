@@ -113,3 +113,9 @@ Again, a pretty light day. We were assigned our first paired project, so startin
 We set up the HTML & CSS of our project. It's a website that will take an input of a website name and website URL and on a submit and then create a bookmark for it on the side of the page. An editable list and the items on it can be marked as 'read' or deleted. It's pretty exciting, but a new javascript challenge. 
 
 It also needs to be a responsive webpage which I haven't yet done. I'll have to do some reading up on that to get a good crack at that. But so far so good, we accomplished our weekend goal today, with lots of worktime to go the rest of the week. 
+
+## Day 15
+
+I had a great time talking to my fellow 100 day-ers today about their first two weeks! It's really exciting to be in a group of people of various levels. Me and some others with little experience and others with vastly more, it's pretty fun. 
+
+Other than that hour I also did a bit of reading about modifying the DOM using jquery, and I'm pretty excited to implement the things I learned in my project. I think using "apend" will be really beneficial to adding bookmark items! It's going to be amazing. Excited to start week three of school tomorrow!
