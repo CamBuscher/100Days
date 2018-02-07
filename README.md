@@ -119,3 +119,30 @@ It also needs to be a responsive webpage which I haven't yet done. I'll have to 
 I had a great time talking to my fellow 100 day-ers today about their first two weeks! It's really exciting to be in a group of people of various levels. Me and some others with little experience and others with vastly more, it's pretty fun. 
 
 Other than that hour I also did a bit of reading about modifying the DOM using jquery, and I'm pretty excited to implement the things I learned in my project. I think using "apend" will be really beneficial to adding bookmark items! It's going to be amazing. Excited to start week three of school tomorrow!
+
+## Day 16
+
+Today's lectures were pretty much all javascript focused. We delved into constructor functions which we can use to make multiple instances of similar objects, and a couple of different notation styles for adding properties to those functions. We also delved into javascript testing in our terminal with these challenges called Mythical creatures. 
+
+Essentially you start out with two files, one is blank and it is for your javascript functions, and the other is a javascript test file that you can run in the terminal to test your function as you go. This photo shows me in the middle of one challenge, with my tests on the left in my text editor and my terminal on the right with a test I just ran. https://imgur.com/a/mC8V1
+
+Eventually we will get to the point of writing our own tests for our javascript applications, but this gets us familiar with the format for now. They are kind of way too fun and make me like javascript!
+
+## Day 17
+
+jQuery jQuery jQuery jQuery and some more jQuery. My project this week is coming along well, and is almost entirely written in jQuery. I love it so much more than vanilla javascript, it's simple and not as long-winded and it's powerful.
+
+One thing I want more practice is navigating through jQuery based on parents, siblings, etc. 
+
+For example, this project I am currently working on starts out with just a form on the page, and when the user uses that form they will get a bookmark printed for them on the screen. On that bookmark is a delete button, which needs an event listener to delete the article. However, if you use a vanilla javascript
+ `document.querySelector(#delete-button).addEventListener('click', function (){
+      yada yada yada...
+})` you will get an error that there is no element in the DOM with an ID of delete-button. But with jQuery you can first select the parent element that the new bookmark will live in, then work your way down the tree of elements to the delete button which will eventually exist, and then you don't get errors on page load! So that's fun, but it looks like this, which is a mind-killer: 
+`function removeArticle() {
+  $(this).closest('article').remove('article');
+}
+$('#list-area').on('click', '.delete-button', removeArticle);`
+
+Anywho, current project is in a good spot, and I did some reading (and testing on my own) with breakpoints in CSS, so now it will be more responsive. I could mess with CSS all day, it's extremely rewarding to me. 
+
+Tomorrow we have our mid-mock assessments, where we sit one-on-one with an instructor and they give us some project to build, from scratch, in front of them, for twenty minutes. Basically no rules, googling and looking up MDN sheets for reference is allowed, but they want to see how we think and build things. I'm nervous but hope it will just result in more growth. After all, I'm just here to get better.
