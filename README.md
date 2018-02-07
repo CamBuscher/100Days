@@ -135,13 +135,16 @@ jQuery jQuery jQuery jQuery and some more jQuery. My project this week is coming
 One thing I want more practice is navigating through jQuery based on parents, siblings, etc. 
 
 For example, this project I am currently working on starts out with just a form on the page, and when the user uses that form they will get a bookmark printed for them on the screen. On that bookmark is a delete button, which needs an event listener to delete the article. However, if you use a vanilla javascript
- `document.querySelector(#delete-button).addEventListener('click', function (){
-      yada yada yada...
-})` you will get an error that there is no element in the DOM with an ID of delete-button. But with jQuery you can first select the parent element that the new bookmark will live in, then work your way down the tree of elements to the delete button which will eventually exist, and then you don't get errors on page load! So that's fun, but it looks like this, which is a mind-killer: 
-`function removeArticle() {
-  $(this).closest('article').remove('article');
-}
-$('#list-area').on('click', '.delete-button', removeArticle);`
+
+      `document.querySelector(#delete-button).addEventListener('click', function (){
+      yada yada yada...}) 
+
+you will get an error that there is no element in the DOM with an ID of delete-button. But with jQuery you can first select the parent element that the new bookmark will live in, then work your way down the tree of elements to the delete button which will eventually exist, and then you don't get errors on page load! So that's fun, but it looks like this, which is a mind-killer: 
+
+    `function removeArticle() {
+      $(this).closest('article').remove('article');
+    }
+    $('#list-area').on('click', '.delete-button', removeArticle);`
 
 Anywho, current project is in a good spot, and I did some reading (and testing on my own) with breakpoints in CSS, so now it will be more responsive. I could mess with CSS all day, it's extremely rewarding to me. 
 
