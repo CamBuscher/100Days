@@ -149,3 +149,13 @@ you will get an error that there is no element in the DOM with an ID of delete-b
 Anywho, current project is in a good spot, and I did some reading (and testing on my own) with breakpoints in CSS, so now it will be more responsive. I could mess with CSS all day, it's extremely rewarding to me. 
 
 Tomorrow we have our mid-mock assessments, where we sit one-on-one with an instructor and they give us some project to build, from scratch, in front of them, for twenty minutes. Basically no rules, googling and looking up MDN sheets for reference is allowed, but they want to see how we think and build things. I'm nervous but hope it will just result in more growth. After all, I'm just here to get better.
+
+## Day 18
+
+We had our mid-mock assessments today ( mentioned them yesterday), but essentially it's a one-on-one with an instructor and they give you a git repository to clone down and a README comp of what to follow. It was basically all javascript, and I think I did well enough on it. I feel like I am at a good level, but I just need to get more reps in to make things more routine. I had to check documentation on a few things, but that's to be expected. 
+
+My partner and I wrapped up our work on our project for the week. It's in a pretty good state, there were some things we didn't quite finish, but all in all I am happy with it! 
+
+As far as actual learning, we went over responsive design in web development, and it's pretty cool! Basically setting breakpoints and different behaviors for those breakpoints so your site or app will look good on all screens. A cool website to demonstrate the four main types of design is http://www.liquidapsive.com/. Just click the drop down menu in the top right of the page and choose different layout types and start resizing your window to see how they each act! 
+
+We also had some work time today, and I tasked myself with reading about and trying out Flexbox. We have a project to design a website's HTML and CSS based on a picture alone, so maybe an additional challenge for me would be building it in Flexbox, although I'm not necessarily sure this site calls for it. A fun website, if you guys are interested in trying it out, is http://flexboxfroggy.com/ ! Very basic introduction to the concepts. Definitely makes spacing things out more intuitive! 
