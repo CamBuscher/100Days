@@ -159,3 +159,21 @@ My partner and I wrapped up our work on our project for the week. It's in a pret
 As far as actual learning, we went over responsive design in web development, and it's pretty cool! Basically setting breakpoints and different behaviors for those breakpoints so your site or app will look good on all screens. A cool website to demonstrate the four main types of design is http://www.liquidapsive.com/. Just click the drop down menu in the top right of the page and choose different layout types and start resizing your window to see how they each act! 
 
 We also had some work time today, and I tasked myself with reading about and trying out Flexbox. We have a project to design a website's HTML and CSS based on a picture alone, so maybe an additional challenge for me would be building it in Flexbox, although I'm not necessarily sure this site calls for it. A fun website, if you guys are interested in trying it out, is http://flexboxfroggy.com/ ! Very basic introduction to the concepts. Definitely makes spacing things out more intuitive! 
+
+## Day 19
+
+Had my first paired project evaluation today. It went fairly well, I think! Definitely some things I want to improve on, but there's time for that. 
+
+We had a lecture on flexbox, which I mentioned yesterday, and I started work on recreating a static comp, based on this image: http://frontend.turing.io/assets/images/static-comp-challenge-1.jpg. Mine is about cows! And how they are rad. I got a good bit done this evening and hope to finish it up tomorrow night! It needs to be responsive and look good on mobile devices without completely ruining the design and style. 
+
+Once I'm done I will post it to github pages and share it here! CSS is so finnicky, but very, very satisfying when I can accomplish something with it.
+
+## Day 20
+
+Slow day today! Lots of commmunity time, but I got to go home early and very nearly finish my static comp I talked about yesterday. Flexbox is super powerful! I would say my favorite thing about it is the ease with which I can align content vertically, a rather challenging aspect of CSS without flexbox. I definitely encourage everybody to check it out for help designing stuff!
+
+Responsive design is fun, but also frustrating. I want to keep things fluid and close to the original design without sacrificing anything, which is nearly impossible. I am excited about my page though, and think it works well in a mobile format as well! I can't wait to share it all with you if I get to see you on Sunday. Still not clear on my schedule, but we start working on our paired project tomorrow morning so I'll know more soon! 
+
+Anyway, not much to talk about today, hope you're all killing it! 
+
+p.s. this is officially my halfway mark for my first module at Turing and that is INSANE to me! It's flying by. 
