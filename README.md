@@ -177,3 +177,21 @@ Responsive design is fun, but also frustrating. I want to keep things fluid and 
 Anyway, not much to talk about today, hope you're all killing it! 
 
 p.s. this is officially my halfway mark for my first module at Turing and that is INSANE to me! It's flying by. 
+
+## Days 21 - 23
+
+Holy moly I'm bad. Full disclosure: It's day 23 and I'm just writing this. Busy weekend, as you can probably surmise. 
+
+**Saturday** - My partner and I knocked out a LOT of our project. We basically have to take some concepts from our last project and apply them to this one, i.e. adding ideas to the page in a card format, except these cards should persist upon refresh and reloading of the browser, meaning we need to utilize local storage. 
+
+Local storage is actually pretty nifty! And not super hard to use. We are kind of getting around one of the main problems in our project, which is storing the cards the user adds as individual objects, and instead we formatted it to store a gigantic string of HTML that changes on pretty much every user input. So it is completely functional (which is the most important part), but it's not ideal. 
+
+I think it will work for the purpose of our project, but over the next few day I want to use the extra time we have earned ourselves to make a side project that does this the correct way with Constructor functions and array prototypes. 
+
+**Sunday** Less code, more life maintenance. Court and I saw a movie and then I spent a few hours working on my javascript testing! Nothing too exciting and no revelations.
+
+**Monday** What a day. Two looooong lectures. One on local storage and one on array prototypes. If you're saying "hey, Cam mentioned that in his Saturday pseudo-entry," you're right! The whole format of Turing is assigning a project that we know essentially nothing about how to approach it, then you struggle all weekend and they give you some answers! Some, but not all. It's actually working super well, I am retaining information at a pretty good percentage (compared to my previous schooling). 
+
+So anyway, array prototypes are kind of really cool! If you're reading this and saying "I have no idea wtf array prototypes are", just remember this: for every asinine thing you are learning right now, know that somewhere you will eventually learn an easier and shorter way to do those things. But you have to struggle with writing arrays yourself and iterating over them with for loops for now. 
+
+This is short, sorry! But I have to get some work done. We're almost a quarter of the way through this challenge, y'all! 
