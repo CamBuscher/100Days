@@ -195,3 +195,11 @@ I think it will work for the purpose of our project, but over the next few day I
 So anyway, array prototypes are kind of really cool! If you're reading this and saying "I have no idea wtf array prototypes are", just remember this: for every asinine thing you are learning right now, know that somewhere you will eventually learn an easier and shorter way to do those things. But you have to struggle with writing arrays yourself and iterating over them with for loops for now. 
 
 This is short, sorry! But I have to get some work done. We're almost a quarter of the way through this challenge, y'all! 
+
+## Day 24
+
+We had a lot of work time today, so I continued my work in my javascript testing, and am at a pretty good point! Nearly done with a week to spare! I started on some of the challenges that require you to write your own tests to test your javascript, which is pretty interesting! According to some further along students testing is a huge part of future modules, so I'm glad I am feeling pretty good with it at the moment.
+
+My partner and I also finished our project, effectively doing everything required of us, but we know we did it in a unique way that may be out of the spirit of the project, as I mentioned in Saturday's entry yesterday. Our instructors were actually cool about it, which I was nervous about. They said it was the first time they'd seen somebody approach it this way, which I think is a good thing? Either way I want to use my extra time to get a good start in my next staic comp and also learn how to do parts of our project in the correct way with storing separate objects in localstorage.
+
+We went over our first static comps as a class today, which I linked in the facebook group yesterday. It was fun to see all the cool and different things people did with same original comp to go off of! 
