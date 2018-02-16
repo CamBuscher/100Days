@@ -203,3 +203,27 @@ We had a lot of work time today, so I continued my work in my javascript testing
 My partner and I also finished our project, effectively doing everything required of us, but we know we did it in a unique way that may be out of the spirit of the project, as I mentioned in Saturday's entry yesterday. Our instructors were actually cool about it, which I was nervous about. They said it was the first time they'd seen somebody approach it this way, which I think is a good thing? Either way I want to use my extra time to get a good start in my next staic comp and also learn how to do parts of our project in the correct way with storing separate objects in localstorage.
 
 We went over our first static comps as a class today, which I linked in the facebook group yesterday. It was fun to see all the cool and different things people did with same original comp to go off of! 
+
+## Day 25 
+
+1/4 of the way there y'all! 
+
+Today I learned a lot more about ARIA and making my websites more screen-reader friendly. It seems like such a valuable skill but also seems like something that is the first to go for some developers in a time crunch. I would really like to get to a place where it is a strength of mind, because developing with empathy is something I would like to consider a personal asset.
+
+Our instructor, who is very ARIA-savvy, said she has received two job offers just this week to assist companies with their accessibility.
+
+I also got really close to finishing my Javascript testing, just a few more minutes of work tomorrow will put me there! 
+
+As I have mentioned several times, I feel weird about my project's use of local storage, so I went back on my own and recreated the functionality of storing different objects with a constructor function, and then pulling those one by one. It actually wasn't that hard and I was able to have my project fairly functional in about an hour, so that was extremely satisfying! Glad I did, just for myself to know that I can.
+
+Kind of a light day, but only because my partner and I killed it with our project this week, getting it done very early. Evaluation tomorrow, so cross your fingers!
+
+## Day 26
+
+Had my evaluation with my partner today. It went super well, our project was in really good shape, and we met every goal of the project, which was really rad. 
+
+I need to get better at making more commits as I work, because I only had a couple on this repository, so that combined with our working together so much on his computer kind of made me look like a slacker, even though I contributed a large amount, I just didn't make dozens of github commitments. I know nobody thinks I'm lazy or anything, but I don't want to give that impression just because of a work habit I could improve. So for my next project I am going to commit my changes like crazy. Any feature, make a commit. 
+
+I finished my javascript testing today while we had work time, which was really nice to get it out of the way. There's a couple of extra tests I want to try and do before the end of the module just to make it very clear for myself, but I think I have plenty of time for that!
+
+I also knocked out most of my second static comp, which is great because it's not due until Tuesday! I have some friends visiting me for a few days (4 nights, wow!) and I'm totally stressed about it, so I'm trying to put in as much work beforehand as I can. My comp is a monster mash theme with 8 different cards from the old Universal monster movies, and I used a bunch of ugly Halloween colors, so it looks like a middle schooler's mySpace, but on purpose. I hope it goes over well, because hokey is fun. I'll make sure to post another link to it when I have it all finished and published to github pages!
