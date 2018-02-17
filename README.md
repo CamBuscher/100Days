@@ -227,3 +227,13 @@ I need to get better at making more commits as I work, because I only had a coup
 I finished my javascript testing today while we had work time, which was really nice to get it out of the way. There's a couple of extra tests I want to try and do before the end of the module just to make it very clear for myself, but I think I have plenty of time for that!
 
 I also knocked out most of my second static comp, which is great because it's not due until Tuesday! I have some friends visiting me for a few days (4 nights, wow!) and I'm totally stressed about it, so I'm trying to put in as much work beforehand as I can. My comp is a monster mash theme with 8 different cards from the old Universal monster movies, and I used a bunch of ugly Halloween colors, so it looks like a middle schooler's mySpace, but on purpose. I hope it goes over well, because hokey is fun. I'll make sure to post another link to it when I have it all finished and published to github pages!
+
+## Day 27
+
+Tired. Week four at Turing is over! I have a crazy hectic week ahead of me, with two projects and friends to host all weekend. My partner is super cool and eased some of my nerves about getting everything done despite my busy week. I hope she's right. 
+
+I don't even think I could do poorly enough in this one week to not make it through this module, I am just nervous about it. 
+
+I hung out with my friends all afternoon and evening, and when they went to sleep I started work on my projects. I completely finished my second static comp, a goofy website called Monster Mash about the Universal monster movies of old. Once I get it up to github pages I will link it here for you all to see, but for now here is a link to the repo with a sneak peek in the README. https://github.com/YayFiber/cb-comp-challenge-2
+
+Going to spend about an hour on my paired project before bed! Trying to be the best student and person all at once but it's exhausting.
