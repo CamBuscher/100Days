@@ -237,3 +237,5 @@ I don't even think I could do poorly enough in this one week to not make it thro
 I hung out with my friends all afternoon and evening, and when they went to sleep I started work on my projects. I completely finished my second static comp, a goofy website called Monster Mash about the Universal monster movies of old. Once I get it up to github pages I will link it here for you all to see, but for now here is a link to the repo with a sneak peek in the README. https://github.com/YayFiber/cb-comp-challenge-2
 
 Going to spend about an hour on my paired project before bed! Trying to be the best student and person all at once but it's exhausting.
+
+Here's the github pages link - https://yayfiber.github.io/cb-comp-challenge-2/
