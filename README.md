@@ -239,3 +239,11 @@ I hung out with my friends all afternoon and evening, and when they went to slee
 Going to spend about an hour on my paired project before bed! Trying to be the best student and person all at once but it's exhausting.
 
 Here's the github pages link - https://yayfiber.github.io/cb-comp-challenge-2/
+
+## Day 28-29
+
+My last two days have been spent entertaining guests! It's hard to balance work and hosting, but I am going to finally squeeze some more project work in tonight and then meet my partner for a good amount of time tomorrow! 
+
+Sorry for such a short and lame post about coding, the only thing I've really done is prepare for my project by reading about things I need to do. I am really excited to refactor somebody else's code in a way that is different. It's going to be a great way to get real-world experience! Because unless I work at a startup I'm sure I won't be starting from scratch.
+
+Enjoyed a few days of leisure, but I'm now in the nervous stress-work state that helps me thrive later in the week because of the leisure. 
