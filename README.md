@@ -247,3 +247,16 @@ My last two days have been spent entertaining guests! It's hard to balance work 
 Sorry for such a short and lame post about coding, the only thing I've really done is prepare for my project by reading about things I need to do. I am really excited to refactor somebody else's code in a way that is different. It's going to be a great way to get real-world experience! Because unless I work at a startup I'm sure I won't be starting from scratch.
 
 Enjoyed a few days of leisure, but I'm now in the nervous stress-work state that helps me thrive later in the week because of the leisure. 
+
+# Days 30-33
+
+Okay I am going to get back into the habit of writing daily. This last week has been an absolute whirlwind. A lot of project time, solo and with my partner, who was really great about working with me despite my annoyingly full schedule.
+
+As I have mentioned before the project this time around was to take some other pair's project from last week and refactor it into something different. It actually went really well for us! I feel confident in my ability to work with javascript in challenging scenarios. We got through a lot of the project with some ease and without needing to ask for help. It seems like a lot of people over complicate javascript out of fear, but you can do a lot with very little code. It probably also helped that our source code wasn't bad in the slightest.
+
+I had a small hiccup yesterday (day 32), with my static comp 2, the monster mash page I shared a couple of posts ago! It looks fine on phones and computer screens, but a couple of very small oversights made it look like absolute garbage on the big televisions we project the projects onto. Basically, don't use viewheight for your sizing unless you specify max and min sizes. I was pretty sad about how awful it reflected on the screen, but know I could fix it in a few minutes if I needed to. I will probably go back and fix it during my week in between modules because it bothers me. Those projects aren't even graded, but man I was bummed about it.
+
+I prepared a short talk on github workflows when working within a team for later today. A fairly easy subject, but a valuable one! If you're reading this and haven't looked into it too much, you should check out the workflow that Turing recommends here: http://frontend.turing.io/lessons/module-1/git-team-workflow.html. There's also a lot of great information in those lessons, and they're all available for free, I'm not breaking some kind of weird Turing rule by sharing it. Basically github saves your ass when you break your code by offering you snapshots of your code at different times, but only if you're dilligent about commiting your changes often.
+
+After today my eyes turn towards next week, our pentathlon of challenges, one each day. It will be a whole lot of studying but I am excited to kill it and move on to module two! Hard to believe it's almost here. 
+
