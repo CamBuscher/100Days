@@ -260,3 +260,15 @@ I prepared a short talk on github workflows when working within a team for later
 
 After today my eyes turn towards next week, our pentathlon of challenges, one each day. It will be a whole lot of studying but I am excited to kill it and move on to module two! Hard to believe it's almost here. 
 
+# Day 34
+
+I finished week five at Turing!! Next week is essentially finals week, and I'm feeling really good about it! I'm prepared for all the challenges that are ahead of me (I think), but that won't stop me from overpreparing! 
+
+Today I had another design lesson and a github lesson. I have to say that while I appreciate those lessons, they certainly weren't the strongest learning experiences to go out of a module on. I guess that's on purpose, they probably don't want to drop React on us today or something. 
+
+I also attended a session that discussed the different types of work environments you can find yourself in as a junior dev. I have to say I think I am drawn to a more startup - sized company right now, but I know what is probably best for me long-term is to go somewhere larger where I can have mentors and continue to learn. I don't think those places are bad, I just know a smaller team would be more exciting and fun, but also inherently more risky and challenging. I hope when I graduate Turing that I'm up to the task of whatever I get, because let's be honest, I'm not going to turn down any job. 
+
+I also did some extra javascript testing, and feel REALLY good with those! But I will definitely redo all of them for a little bit sometime this week.
+
+My attention this weekend will be pretty much all studying and (mainly) my third static comp. It's going to be a monster of a build, but I think I can do it! I didn't have the best second static comp (it fell apart on a large television due to a few small oversights), and I'm determined to kick this one's ass, even though it's going to be tough. 
+
