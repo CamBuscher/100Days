@@ -272,3 +272,12 @@ I also did some extra javascript testing, and feel REALLY good with those! But I
 
 My attention this weekend will be pretty much all studying and (mainly) my third static comp. It's going to be a monster of a build, but I think I can do it! I didn't have the best second static comp (it fell apart on a large television due to a few small oversights), and I'm determined to kick this one's ass, even though it's going to be tough. 
 
+# Day 35
+
+Today I met with some of my cohort and studied for our final week of mod 1! We have a lot of challenges this week, but if I'm being honest I am not super worried about them. I feel confident in my ability traversing the DOM and also in my javascript testing and object creation. My big stressor is my third static comp. The thing is a monster, so I'm just being meticulous with every part of it. I kind of only just started it today, and am proud of what I got done! 
+
+It's not due until Wednesday, and I have all of tomorrow open to work on it, so I hope to be done with its desktop form tomorrow and be well into working on the responsive design too. 
+
+I also met with a friend who went through Turing and taught there, and it was nice just to chat and catch up. Get a break from actually coding and stressing about the week. 
+
+Excited to see you all tomorrow and learn what you've been working on!
