@@ -281,3 +281,13 @@ It's not due until Wednesday, and I have all of tomorrow open to work on it, so 
 I also met with a friend who went through Turing and taught there, and it was nice just to chat and catch up. Get a break from actually coding and stressing about the week. 
 
 Excited to see you all tomorrow and learn what you've been working on!
+
+# Day 36
+
+Today I met with you all! The wonderful Boulder coding group. There was so much goodness in our group it's hard to pick just one, but with job opportunities opening and new ventures starting, it's all very exciting in our group! So excited for everybody.
+
+Personally I worked all day on my third static comp, and I'm about to finish the base layout of it! Which will leave only responsive design for two whole days, which should be more more more more than enough. I'm really proud of how it looks so far, it feels like a really well planned website, without any fluff in my CSS, which I know can't be true, but I feel happy with it. My house is a total wreck, Courtney is out of town so I brought our kitchen table into the living room and have been using it as a desk with our television as a second monitor, which has actually been amazing. I'm able to do so much with the additional monitor, it's stupid how much time it saves not flipping between programs on my little macbook.
+
+I just took a break from my static comp marathon to work on a couple of DOM manipulation challenges, which is what our test tomorrow is on, and I felt really effin great about them! Somebody recommended we recreate our first challenge in javascript again, and I did that in about 30 minutes! It took me days and days the first time, and I did it in JQuery this time! So only about 30 lines of code for the first two phases of functionality, and super quick! 
+
+I'm about to wrap up my static comp for the evening and call it a damn day, it's been a long one.
