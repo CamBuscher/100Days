@@ -291,3 +291,11 @@ Personally I worked all day on my third static comp, and I'm about to finish the
 I just took a break from my static comp marathon to work on a couple of DOM manipulation challenges, which is what our test tomorrow is on, and I felt really effin great about them! Somebody recommended we recreate our first challenge in javascript again, and I did that in about 30 minutes! It took me days and days the first time, and I did it in JQuery this time! So only about 30 lines of code for the first two phases of functionality, and super quick! 
 
 I'm about to wrap up my static comp for the evening and call it a damn day, it's been a long one.
+
+# Day 37
+
+Day one of finals week (dubbed the 'pentathlon') is over! I really feel great about how I did on that challenge! Tomorrow is our creature challenge, around making objects with constructor functions and giving them prototype functions to do specific things. It's all in the name of being in a spot to start writing our own tests next mod, which will be exciting and challenging I'm sure.
+
+I'm pretty much done with my third static comp! Just one or two small mobile tweaks and then I will add some ARIA functionality to it so it's nice for screenreaders. Other than that a pretty light day! 
+
+Trying to stay up to get some studying in tonight but I can feel sleep creepin up on me. 
