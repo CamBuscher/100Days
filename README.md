@@ -299,3 +299,24 @@ Day one of finals week (dubbed the 'pentathlon') is over! I really feel great ab
 I'm pretty much done with my third static comp! Just one or two small mobile tweaks and then I will add some ARIA functionality to it so it's nice for screenreaders. Other than that a pretty light day! 
 
 Trying to stay up to get some studying in tonight but I can feel sleep creepin up on me. 
+
+I also figured out how to do a nifty bit of javascript to have this effect on my bar graph for my static comp: https://gyazo.com/5d2305ccec1fa61214bafa555a487d68
+
+I'll post the javascript, but what it is doing is finding the position of your cursor in your window, then when you hover over those bars it's grabbing the text from inside of them (hidden, but there), and adds it to a card which I have follow my cursor around. The card is just hidden on the page before that hover state, but I thought it was pretty rad! 
+
+``` $('.progress-fill').on('mousemove', displayTooltip);
+$('.progress-fill').on('mouseleave', hideTooltip);
+
+function displayTooltip(e) {
+  var x = e.pageX; 
+  var y = e.pageY;
+  $('.info-card').css('display', 'inline-flex');
+  $('.info-card').css('position', 'absolute');
+  $('.info-card').css('left', x - 75);
+  $('.info-card').css('top', y - 100);
+  $('.info-card').children('.card-text').text($(this).find('.tooltip-description').text());
+}
+
+function hideTooltip() {
+  $('.info-card').css('display', 'none'); ```
+}
