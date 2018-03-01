@@ -320,3 +320,11 @@ function displayTooltip(e) {
 function hideTooltip() {
   $('.info-card').css('display', 'none'); ```
 }
+
+# Day 38-40
+
+I haven't logged anything since Monday because I've just been trying to get my pentathlon over with! Tuesday was our javascript testing challenges and yesterday was our evaluation of our third static comp, which I really feel like I rocked. I was stoked with how everything went! 
+
+Today was the defense of our portfolios and when we find out if we go through to module two, and I was so damn nervous. I think I really suffer with imposter syndrome. I did every project and test super well this module and was still immensely nervous about passing the mod. Like just convinced I don't actually belong or something. It's weird and something I'd like to work on.
+
+All that to say that I'm moving on to module two!! I can't explain how excited I am for that, for my week off coming up, and becoming a better developer over all. 
