@@ -328,3 +328,11 @@ I haven't logged anything since Monday because I've just been trying to get my p
 Today was the defense of our portfolios and when we find out if we go through to module two, and I was so damn nervous. I think I really suffer with imposter syndrome. I did every project and test super well this module and was still immensely nervous about passing the mod. Like just convinced I don't actually belong or something. It's weird and something I'd like to work on.
 
 All that to say that I'm moving on to module two!! I can't explain how excited I am for that, for my week off coming up, and becoming a better developer over all. 
+
+# Days 41-44 
+
+I have thouroughly enjoyed my three days off the last few days, although I'll admit I've been kind of eager to get back to coding. My days of complete rest are probably done for this break, and today I started working on my prework for next module! 
+
+One of our tasks is to refactor a past project, which is actually rad because I wanted to do that anyway to get a more solid grasp on localstorage and storing objects there. So I started doing that tonight, and have actually gotten quite far with that! It's interesting, but I have a feeling localstorage will one day be replaced by something far more powerful, or it already has and I'm just not aware of it. The requirement of storing everything in string form and having to parse and stringify everything is just plain annoying. It adds a lot of bloat to my code and I'm not a fan of that. 
+
+Not much to report on right now, nothing too exciting. I will be delving into Canvas soon and I'm really stoked to get going on that this week! 
