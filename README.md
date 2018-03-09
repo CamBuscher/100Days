@@ -336,3 +336,11 @@ I have thouroughly enjoyed my three days off the last few days, although I'll ad
 One of our tasks is to refactor a past project, which is actually rad because I wanted to do that anyway to get a more solid grasp on localstorage and storing objects there. So I started doing that tonight, and have actually gotten quite far with that! It's interesting, but I have a feeling localstorage will one day be replaced by something far more powerful, or it already has and I'm just not aware of it. The requirement of storing everything in string form and having to parse and stringify everything is just plain annoying. It adds a lot of bloat to my code and I'm not a fan of that. 
 
 Not much to report on right now, nothing too exciting. I will be delving into Canvas soon and I'm really stoked to get going on that this week! 
+
+# Days 45-47
+
+Slow progress on prework. I was really enjoying my time off, but I think that's all over now, back to the code grind! 
+
+I continued my prework studying by reading about the Canvas element. It's a _huge_ amount of information, but it's really cool and powerful! Basically all the HTML element Canvas does is provide just that, a blank canvas. The rest is javascript. Drawing or importing objects and making them interract with each other or animate. It's really cool, and what I'll be spending the first two weeks of mod 2 on building our games! Should be super fun, but I'm a little intimidated by the scope of it all. 
+
+For the rest of my prework I am doing some reading about ES6 from this book [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read). It seems really cool and I'm excited to start using it more. 
