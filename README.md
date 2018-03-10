@@ -344,3 +344,13 @@ Slow progress on prework. I was really enjoying my time off, but I think that's 
 I continued my prework studying by reading about the Canvas element. It's a _huge_ amount of information, but it's really cool and powerful! Basically all the HTML element Canvas does is provide just that, a blank canvas. The rest is javascript. Drawing or importing objects and making them interract with each other or animate. It's really cool, and what I'll be spending the first two weeks of mod 2 on building our games! Should be super fun, but I'm a little intimidated by the scope of it all. 
 
 For the rest of my prework I am doing some reading about ES6 from this book [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read). It seems really cool and I'm excited to start using it more. 
+
+# Day 48
+
+Wow would you look at that: I updated this thing aftero only one day, not three! Miracle! 
+
+Today I finished my ES6 reading. I'm really excited to start working with it, I love me some javascript, and I also read it's the number one in-demand skill of programmers right now, which is exciting because I really enjoy using it. 
+
+ES6 has a lot of cool features, and I'm glad for the brevity in my code the provide. I like the use of classes, default values for parameters, spread operators, and all the different things you can do with arrays. My last bit of prework is reviewing some debugging tools in the console, which I already love and use a lot of (if you aren't using the keyword debugger in your functions that don't work I am sad for you, it's amazing!).
+
+Other than that my laptop is at 4%, so I'm going to end this short ass update. Hope you all are doing super well!
