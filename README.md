@@ -354,3 +354,9 @@ Today I finished my ES6 reading. I'm really excited to start working with it, I 
 ES6 has a lot of cool features, and I'm glad for the brevity in my code the provide. I like the use of classes, default values for parameters, spread operators, and all the different things you can do with arrays. My last bit of prework is reviewing some debugging tools in the console, which I already love and use a lot of (if you aren't using the keyword debugger in your functions that don't work I am sad for you, it's amazing!).
 
 Other than that my laptop is at 4%, so I'm going to end this short ass update. Hope you all are doing super well!
+
+# Day 49
+
+My break week is almost over and I am a little sad, but ready to get back at the same time. There is a lot of cool stuff coming up in mod 2 and I can't wait to start learning it all.
+
+I wrapped up my official prework today, going over some debugging using the developer tools in chrome, most of which was review, but I did learn a couple of neat things! More exciting is what I learned in canvas today. You can make so much in a short amount of time in canvas and it's really exciting to learn all the cool things you can do with it. I followed this four-part tutorial: https://www.youtube.com/watch?v=EO6OkltgudE. It's really simple and if you have even just a little javascript practice you can make some cool things! I encourage you all to try it out!
