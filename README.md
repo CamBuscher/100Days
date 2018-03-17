@@ -360,3 +360,13 @@ Other than that my laptop is at 4%, so I'm going to end this short ass update. H
 My break week is almost over and I am a little sad, but ready to get back at the same time. There is a lot of cool stuff coming up in mod 2 and I can't wait to start learning it all.
 
 I wrapped up my official prework today, going over some debugging using the developer tools in chrome, most of which was review, but I did learn a couple of neat things! More exciting is what I learned in canvas today. You can make so much in a short amount of time in canvas and it's really exciting to learn all the cool things you can do with it. I followed this four-part tutorial: https://www.youtube.com/watch?v=EO6OkltgudE. It's really simple and if you have even just a little javascript practice you can make some cool things! I encourage you all to try it out!
+
+# Days 50 - 56 
+
+Whoops! Long ass break of writing these entries! The first week of module two is over and I'm _exhausted_. We learned so much, and so much of it was higher-level concepts of ES6 syntax, array prototypes, object-oriented programming and javascript testing. 
+
+My project was kicked off on Monday afternoon (no lollygagging), and it's a two-week project that's due next Thursday. We are making an old arcade game using HTML canvas. It's insane that some of these games ran on machines that cost thousands of dollars in the past, and some idiot 8-week programming students can struggle through it in about 12 days. 
+
+I am doing brickbreaker with my partner, and it's been a pretty cool experience! Everything on the canvas is essentially just an abstraction of a javascript object, and once you understand that it gets a bit easier to manage in your brain. All of our objects live in different javascript files and interract with one another, which adds an extra level of logic.
+
+I'm loving it all so far, even though my brain feels entirely overwhelmed all the time! I hope to see you all really soon.
