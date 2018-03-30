@@ -451,7 +451,7 @@ const quickSort = arr => {
 
 And here's the results of all my tests. The speeds of quick and merge sorts are of how quickly the sorted a randomly generated array of 500,000 numbers between 1 and 10,000. Merge sort is quicker and more consistent than quick sort, but the implementation of quick sort is so cool, I kind of prefer it afterall. 
 
-[Imgur](https://i.imgur.com/s0xodSH.png)
+![Imgur](https://i.imgur.com/s0xodSH.png)
 
 Here's a really great video explaining quick sort, it was enough information to base our entire code on. Really should send that guy a cake or something. https://www.youtube.com/watch?v=MZaf_9IZCrc.
 
