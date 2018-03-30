@@ -304,7 +304,9 @@ I also figured out how to do a nifty bit of javascript to have this effect on my
 
 I'll post the javascript, but what it is doing is finding the position of your cursor in your window, then when you hover over those bars it's grabbing the text from inside of them (hidden, but there), and adds it to a card which I have follow my cursor around. The card is just hidden on the page before that hover state, but I thought it was pretty rad! 
 
-``` $('.progress-fill').on('mousemove', displayTooltip);
+``` 
+
+$('.progress-fill').on('mousemove', displayTooltip);
 $('.progress-fill').on('mouseleave', hideTooltip);
 
 function displayTooltip(e) {
@@ -318,8 +320,10 @@ function displayTooltip(e) {
 }
 
 function hideTooltip() {
-  $('.info-card').css('display', 'none'); ```
+  $('.info-card').css('display', 'none'); 
 }
+
+```
 
 # Day 38-40
 
@@ -389,7 +393,8 @@ You can find visualizations of the algorithms online, but they started to get re
 
 ![Merge sort](https://www.geeksforgeeks.org/wp-content/uploads/Merge-Sort-Tutorial.png)
 
-```const mergeSort = arr => {
+```
+const mergeSort = arr => {
   if(arr.length <= 1) {
     return arr;
   }
@@ -414,13 +419,15 @@ const sort = (leftArr, rightArr) => {
     }
   }
   return [...newArr, ...leftArr.slice(i), ...rightArr.slice(j)];
-}```
+}
+```
 
 ### Quick sort 
 
 ![Quick sort](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Quicksort-diagram.svg/2000px-Quicksort-diagram.svg.png)
 
-```const quickSort = arr => {
+```
+const quickSort = arr => {
   if(arr.length <= 1) {
     return arr;
   }
@@ -439,7 +446,8 @@ const sort = (leftArr, rightArr) => {
   let lessThan = arr.slice(0, i+1);
   let greaterThan = arr.slice(i+2)
   return [...quickSort(lessThan), arr[i+1], ...quickSort(greaterThan)]
-}```
+}
+```
 
 And here's the results of all my tests. The speeds of quick and merge sorts are of how quickly the sorted a randomly generated array of 500,000 numbers between 1 and 10,000. Merge sort is quicker and more consistent than quick sort, but the implementation of quick sort is so cool, I kind of prefer it afterall. 
 
