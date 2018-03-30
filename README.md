@@ -370,3 +370,81 @@ My project was kicked off on Monday afternoon (no lollygagging), and it's a two-
 I am doing brickbreaker with my partner, and it's been a pretty cool experience! Everything on the canvas is essentially just an abstraction of a javascript object, and once you understand that it gets a bit easier to manage in your brain. All of our objects live in different javascript files and interract with one another, which adds an extra level of logic.
 
 I'm loving it all so far, even though my brain feels entirely overwhelmed all the time! I hope to see you all really soon.
+
+## Day 69? 
+
+I think that's what day it is. I just finished my second project and third week of module two. 
+
+Week two my partner and I finished our game!! Here's our repo with some screenshots of the actual game: https://github.com/YayFiber/game-time. It worked well enough and we did well on the project, but man I was tired of that stupid game at the end. 
+
+A couple of big lessons from that project were the focus on testing and object-oriented programming. I'm still not sure if I _like_ OOP, but I enjoy knowing how to utilize it. 
+
+This week was a whirlwind. It's Thursday as I write this, and I just finished a project called Sorting Suite, where we utilized recursive functions to write our own sorting algorithms. If you're asking yourself 'wtf is a sorting algorithm,' fantastic. It's kind of like the method that already exists in a perfected form as *_Array.sort()_*. But we had to write them in javascript from scratch, in three days. 
+
+We recreated bubble sort, insertion sort, merge sort, and quick sort, based only on a couple of diagrams, one quick lesson, and several Hungarian dance videos which visualized the sorts -- https://www.youtube.com/watch?v=ywWBy6J5gz8. 
+
+You can find visualizations of the algorithms online, but they started to get really fun with merge and quick sorts. Here's some diagrams of each, followed by my implementations:
+
+### Merge sort
+
+![Merge sort](https://www.geeksforgeeks.org/wp-content/uploads/Merge-Sort-Tutorial.png)
+
+```const mergeSort = arr => {
+  if(arr.length <= 1) {
+    return arr;
+  }
+  const divideLine = Math.ceil(arr.length /2);
+  let leftArray = (arr.slice(0, divideLine));
+  let rightArray = (arr.slice(divideLine));
+  
+  return sort(mergeSort(leftArray), mergeSort(rightArray));
+};
+
+const sort = (leftArr, rightArr) => {
+  let newArr = [];
+  let i = 0;
+  let j = 0;
+  while(i < leftArr.length && j < rightArr.length) {
+    if(leftArr[i] < rightArr[j]) {
+      newArr.push(leftArr[i]);
+      i++;
+    } else {
+      newArr.push(rightArr[j]);
+      j++;
+    }
+  }
+  return [...newArr, ...leftArr.slice(i), ...rightArr.slice(j)];
+}```
+
+### Quick sort 
+
+![Quick sort](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Quicksort-diagram.svg/2000px-Quicksort-diagram.svg.png)
+
+```const quickSort = arr => {
+  if(arr.length <= 1) {
+    return arr;
+  }
+  let p = arr.length - 1;
+  let i = -1;
+  let j = 0;
+  while(j < p) {
+    if(arr[j] < arr[p]) {
+      i++
+      [ arr[j], arr[i] ] = [ arr[i], arr[j] ]
+    } 
+    j++;
+  }
+  [ arr[i + 1], arr[p] ] = [ arr[p], arr[i+1] ]
+  
+  let lessThan = arr.slice(0, i+1);
+  let greaterThan = arr.slice(i+2)
+  return [...quickSort(lessThan), arr[i+1], ...quickSort(greaterThan)]
+}```
+
+And here's the results of all my tests. The speeds of quick and merge sorts are of how quickly the sorted a randomly generated array of 500,000 numbers between 1 and 10,000. Merge sort is quicker and more consistent than quick sort, but the implementation of quick sort is so cool, I kind of prefer it afterall. 
+
+[Imgur](https://i.imgur.com/s0xodSH.png)
+
+Here's a really great video explaining quick sort, it was enough information to base our entire code on. Really should send that guy a cake or something. https://www.youtube.com/watch?v=MZaf_9IZCrc.
+
+Hope you're all doing well, and hope I can get back to more frequent updates. 
